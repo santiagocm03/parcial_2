@@ -25,11 +25,11 @@ N=n+1
 #filtro para la entrada de datos por teclado#
 #############################################
 if N!=int(N):
-    print(txt2)
-    sys.exit()
+    
+    sys.exit(txt2)
 if N<0:
-    print(txt2)
-    sys.exit()
+    
+    sys.exit(txt2)
 ######################################################
 #se define la lista A, esta contiene los coeficientes#
 ######################################################
